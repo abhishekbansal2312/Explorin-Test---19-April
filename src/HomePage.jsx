@@ -31,7 +31,7 @@ export default function InstagramUI() {
   };
 
   return (
-    <div className="flex flex-col h-screen max-w-screen overflow-hidden">
+    <div className="flex flex-col overflow-hidden">
       <header className="flex justify-between items-center p-2 border-b border-gray-200 bg-white">
         <div className="flex items-center justify-center w-full">
           <h1 className="font-serif text-2xl font-medium">Instagram</h1>
